@@ -1,0 +1,1434 @@
+selfEmployed,employerTech,healthCoverage,mentalHealthCoverage,formal,age,gender,country
+0,1,Not eligible for coverage / N/A,N/A,No,39,Male,United Kingdom
+0,1,No,Yes,Yes,29,male,United States of America
+0,1,No,N/A,No,38,Male ,United Kingdom
+1,,,,,43,male,United Kingdom
+0,0,Yes,Yes,No,43,Female,United States of America
+0,1,Yes,I am not sure,No,42,Male,United Kingdom
+0,1,I don't know,No,No,30,M,United States of America
+0,1,Yes,Yes,No,37,female,United States of America
+0,0,I don't know,No,No,44,Female,United States of America
+1,,,,,30,Male,United States of America
+0,1,Yes,I am not sure,Yes,28,Male,United States of America
+0,0,Yes,Yes,No,34,Male,United States of America
+0,1,Yes,I am not sure,No,30,Female,United States of America
+0,0,Yes,Yes,Yes,44,Male,Canada
+0,1,Yes,Yes,No,35,Male,United States of America
+0,1,I don't know,No,No,52,m,United States of America
+0,1,Not eligible for coverage / N/A,No,No,32,I identify as female.,Canada
+0,1,No,No,No,34,Male,United Kingdom
+1,,,,,25,female ,United States of America
+0,0,I don't know,No,No,31,M,United States of America
+0,1,No,N/A,No,26,Male,United States of America
+0,0,Yes,No,Yes,35,male,United States of America
+0,1,Yes,Yes,No,25,male,Germany
+0,1,Yes,Yes,No,33,Male,Canada
+1,,,,,38,Male,United States of America
+0,0,Yes,Yes,I don't know,42,male,Germany
+0,0,No,No,No,27,Male,Netherlands
+0,1,I don't know,No,No,35,male,Germany
+0,0,I don't know,No,Yes,34,female,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,32,Bigender,United Kingdom
+0,1,Not eligible for coverage / N/A,Yes,No,32,non-binary,Germany
+0,1,Yes,Yes,No,30,Male,United States of America
+0,1,I don't know,I am not sure,No,31,Male,United States of America
+1,,,,,37,Male ,Czech Republic
+0,1,Yes,I am not sure,No,36,Male,United Kingdom
+0,1,No,No,No,33,Male,Germany
+0,1,Yes,I am not sure,No,44,Male,United States of America
+0,1,No,Yes,No,29,male,United Kingdom
+0,1,No,I am not sure,Yes,29,male,United Kingdom
+0,1,Yes,Yes,I don't know,44,Male,Canada
+1,,,,,34,Male,United States of America
+0,1,Yes,I am not sure,No,40,male,United States of America
+0,1,Yes,I am not sure,No,46,Female assigned at birth ,Netherlands
+1,,,,,28,M,Lithuania
+0,0,No,I am not sure,No,41,Male,United States of America
+0,1,Yes,Yes,I don't know,33,male,United States of America
+1,,,,,32,Male,United States of America
+0,1,I don't know,No,No,45,Male,United States of America
+1,,,,,43,male,United Kingdom
+0,1,Yes,Yes,No,37,F,United States of America
+0,1,No,N/A,No,37,M,Australia
+0,1,Yes,Yes,No,27,Male,United States of America
+1,,,,,31,Male,Netherlands
+0,1,Yes,Yes,No,36,Male,United States of America
+0,0,Yes,Yes,No,34,Male,United States of America
+0,0,Yes,No,Yes,31,Woman,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+0,0,Yes,Yes,No,32,Male,Canada
+0,0,Yes,I am not sure,No,40,female,United States of America
+0,0,I don't know,No,No,40,Male,United States of America
+0,1,Yes,I am not sure,Yes,41,man,France
+0,0,Not eligible for coverage / N/A,N/A,No,27,Male,United Kingdom
+0,1,Yes,Yes,No,30,Male,United States of America
+1,,,,,29,Male,Venezuela
+1,,,,,38,Male,United Kingdom
+1,,,,,35,male,Netherlands
+0,0,No,Yes,No,35,female,United States of America
+0,1,Yes,I am not sure,Yes,29,M,United States of America
+0,1,Yes,I am not sure,No,28,Male,United States of America
+0,0,No,Yes,No,27,Male,Netherlands
+1,,,,,39,Male,Poland
+0,1,Yes,I am not sure,No,28,male,Belgium
+0,0,I don't know,No,No,46,Male,United States of America
+0,1,No,No,No,40,male,Netherlands
+0,1,Yes,Yes,No,37,Male,United States of America
+0,1,No,N/A,No,41,Male,Netherlands
+1,,,,,19,M,France
+0,1,I don't know,I am not sure,No,38,F,Netherlands
+0,1,I don't know,I am not sure,No,33,Male ,United States of America
+0,1,Yes,Yes,No,33,Male,United States of America
+0,1,Yes,Yes,No,21,male,United Kingdom
+0,1,No,No,No,36,Male,Brazil
+1,,,,,39,Male,Canada
+0,1,I don't know,I am not sure,No,35,Male,United States of America
+1,,,,,36,male,France
+0,1,Yes,No,No,45,Male,United States of America
+0,1,I don't know,No,No,41,Male,Canada
+0,1,I don't know,I am not sure,No,35,Male,United Kingdom
+1,,,,,30,Male,United States of America
+0,1,I don't know,I am not sure,Yes,24,Female,United States of America
+0,0,No,N/A,No,33,Male,Brazil
+0,1,Yes,Yes,I don't know,35,male,United States of America
+0,1,No,N/A,Yes,26,Male,United Kingdom
+0,1,No,N/A,No,17,male,Brazil
+0,0,I don't know,I am not sure,No,29,Female,United States of America
+0,1,Yes,I am not sure,No,26,Male,United States of America
+0,1,I don't know,I am not sure,No,36,female,United States of America
+0,1,I don't know,I am not sure,Yes,46,M,United States of America
+1,,,,,39,Male,Netherlands
+0,1,Yes,Yes,No,28,Female,United States of America
+0,1,Yes,No,I don't know,40,Male,United States of America
+0,1,I don't know,No,No,23,Male,United States of America
+0,1,I don't know,I am not sure,No,30,Male,United States of America
+0,1,I don't know,I am not sure,I don't know,28,fm,United States of America
+0,1,No,I am not sure,No,27,Male,Netherlands
+1,,,,,31,m,United States of America
+0,1,Yes,Yes,No,39,f,United States of America
+0,1,Yes,Yes,No,34,Female,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+1,,,,,30,male,Denmark
+0,0,I don't know,No,No,31,Male,United States of America
+0,1,Yes,Yes,Yes,30,M,United States of America
+0,1,Yes,I am not sure,No,32,Male,United States of America
+1,,,,,22,Male,Czech Republic
+1,,,,,37,Female,Belgium
+0,0,Yes,Yes,No,51,Male,United States of America
+0,0,I don't know,No,No,26,Male,United States of America
+0,1,Yes,Yes,Yes,41,f,United States of America
+0,1,I don't know,I am not sure,No,39,F,United States of America
+0,1,Yes,No,No,43,M,United States of America
+0,1,I don't know,I am not sure,No,30,M,United Kingdom
+0,1,Yes,Yes,Yes,24,Female,United States of America
+1,,,,,30,m,Netherlands
+0,0,No,Yes,No,28,Cis female ,Germany
+1,,,,,48,Female,United States of America
+1,,,,,55,Female,United States of America
+0,0,I don't know,No,Yes,36,F,United States of America
+1,,,,,38,Male,Netherlands
+0,1,I don't know,No,I don't know,34,Male,France
+0,1,Yes,No,No,44,Female,United States of America
+0,0,I don't know,I am not sure,No,45,Male,United States of America
+0,1,Yes,No,No,45,M,United States of America
+0,1,No,I am not sure,No,30,male,United States of America
+0,0,Yes,No,No,34,Male,United States of America
+0,1,I don't know,No,Yes,37,Male,United States of America
+0,0,Yes,I am not sure,No,38,Male,United States of America
+0,1,Yes,No,No,31,Male,United States of America
+0,1,I don't know,I am not sure,No,33,Male,United States of America
+0,1,Yes,Yes,No,29,female,United States of America
+0,1,Yes,Yes,Yes,35,M,United States of America
+0,1,No,Yes,No,42,"Transitioned, M2F",Canada
+0,1,I don't know,No,No,26,Female,United States of America
+0,1,Yes,No,No,36,f,United States of America
+0,1,I don't know,I am not sure,I don't know,21,male,United Kingdom
+0,1,Yes,I am not sure,No,34,F,United States of America
+1,,,,,40,M,Germany
+0,1,Yes,No,No,35,Male,United States of America
+0,1,Yes,Yes,No,44,Male,United States of America
+0,1,I don't know,No,No,35,Genderfluid (born female),Canada
+0,1,No,N/A,No,45,m,United States of America
+0,0,Yes,Yes,I don't know,42,m,United States of America
+1,,,,,40,Male,United States of America
+1,,,,,50,F,United States of America
+0,1,Yes,No,I don't know,36,Male,United States of America
+1,,,,,31,female,United States of America
+0,1,I don't know,No,Yes,29,Male,United States of America
+0,1,Yes,No,No,37,Male,United States of America
+0,1,No,I am not sure,No,31,m,United States of America
+0,0,I don't know,No,No,42,Male,Canada
+0,1,Yes,Yes,No,25,Male,United States of America
+0,1,Yes,Yes,No,27,Male,United States of America
+0,0,Yes,Yes,No,41,Female,United States of America
+0,1,Yes,Yes,No,41,Female,United States of America
+0,0,Yes,Yes,Yes,55,F,United States of America
+0,1,Yes,Yes,Yes,21,Male,United States of America
+0,0,I don't know,I am not sure,Yes,37,male,Netherlands
+0,0,I don't know,No,No,34,female,Netherlands
+0,0,Yes,Yes,No,40,Male,United Kingdom
+1,,,,,25,male,Netherlands
+0,0,Yes,I am not sure,Yes,36,male,Germany
+0,1,No,I am not sure,No,25,Male,Germany
+0,1,I don't know,I am not sure,No,35,male,United States of America
+0,1,No,I am not sure,No,37,male,United States of America
+0,0,Yes,No,No,45,Male,United States of America
+0,1,No,N/A,No,26,Male,United States of America
+0,1,Yes,I am not sure,No,23,Male,United States of America
+0,1,Yes,Yes,No,22,Female,United States of America
+0,1,I don't know,I am not sure,No,46,Female,United States of America
+0,1,No,N/A,Yes,31,Male,United Kingdom
+0,1,Yes,I am not sure,I don't know,27,Male,United States of America
+0,1,No,N/A,No,37,male,United Kingdom
+0,1,I don't know,I am not sure,No,37,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,Yes,26,Other/Transfeminine,Netherlands
+0,1,No,No,No,23,M,Netherlands
+0,1,Yes,Yes,No,40,Male,United States of America
+0,1,No,No,No,29,M,Denmark
+0,1,Yes,Yes,Yes,37,Male,United States of America
+0,1,Yes,Yes,I don't know,34,female,United States of America
+0,1,Yes,No,No,40,male,United States of America
+0,1,Yes,No,No,39,Male,United States of America
+0,1,Yes,I am not sure,I don't know,28,Male,United States of America
+1,,,,,28,male,Belgium
+0,1,No,No,No,27,Male,Germany
+1,,,,,48,Male,United Kingdom
+0,1,Yes,Yes,No,49,Female,United States of America
+0,1,No,I am not sure,No,35,Male,United Kingdom
+0,1,I don't know,No,No,35,Male,Sweden
+1,,,,,38,Male,United Kingdom
+0,1,Yes,Yes,Yes,32,Male,United States of America
+0,1,Yes,Yes,No,42,Male,United States of America
+0,1,Yes,Yes,No,33,female,United States of America
+0,1,I don't know,N/A,No,35,Male,United Kingdom
+0,1,I don't know,No,No,24,M,Russia
+0,1,Yes,Yes,No,29,Female or Multi-Gender Femme,United States of America
+0,1,I don't know,I am not sure,No,29,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,24,Male,United Kingdom
+0,1,I don't know,No,Yes,30,Male,Sweden
+0,1,I don't know,No,No,30,male,United States of America
+0,1,No,No,No,44,male,United States of America
+0,1,Yes,I am not sure,No,37,Male,United Kingdom
+0,1,No,No,No,28,Male,Germany
+0,1,Yes,Yes,I don't know,42,Male,United States of America
+0,1,Yes,No,No,30,female,United Kingdom
+0,1,I don't know,I am not sure,No,36,m,Russia
+0,1,I don't know,No,No,30,male,Russia
+0,1,I don't know,No,No,29,Male,United States of America
+0,1,I don't know,No,I don't know,25,male,United States of America
+0,1,No,N/A,No,25,Male,Belgium
+0,1,I don't know,I am not sure,No,24,Male,Russia
+0,1,No,No,No,25,m,Russia
+0,1,Yes,Yes,No,31,Male ,Denmark
+0,1,Yes,No,No,37,M,Canada
+0,1,I don't know,No,No,35,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,26,female,Spain
+0,1,Yes,Yes,No,31,Male,United Kingdom
+0,1,Yes,I am not sure,No,29,female,United States of America
+0,1,I don't know,No,No,33,M,France
+0,1,No,I am not sure,No,30,M,India
+0,1,Yes,Yes,No,30,M,United States of America
+0,1,Yes,Yes,No,29,female,United States of America
+0,1,I don't know,No,No,25,Female,United States of America
+0,0,Yes,Yes,Yes,27,Male,United States of America
+0,1,Yes,I am not sure,No,26,Male,Germany
+0,1,Yes,Yes,I don't know,38,Female,United States of America
+0,1,Yes,Yes,Yes,49,Male,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+1,,,,,34,male,France
+0,1,No,No,No,31,male,Russia
+1,,,,,29,Male,United States of America
+0,1,No,No,No,31,m,Germany
+0,1,Not eligible for coverage / N/A,I am not sure,Yes,34,male,Germany
+0,1,I don't know,No,No,28,Male,United States of America
+1,,,,,35,Female ,United Kingdom
+0,1,I don't know,I am not sure,No,27,Male ,Germany
+1,,,,,33,m,Germany
+0,1,I don't know,I am not sure,No,37,Female,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,45,Male,United Kingdom
+0,1,No,N/A,No,31,woman,United States of America
+0,0,No,I am not sure,No,36,M,United States of America
+0,1,Yes,Yes,No,30,M,United States of America
+0,1,Yes,Yes,Yes,33,female,United Arab Emirates
+0,1,Yes,I am not sure,No,45,female,Canada
+0,1,Yes,Yes,Yes,30,Female,United States of America
+0,1,Yes,Yes,Yes,30,male,United States of America
+1,,,,,29,Male,United States of America
+0,0,No,Yes,Yes,36,Male,Mexico
+0,1,Yes,Yes,Yes,28,Male,United States of America
+0,1,Yes,I am not sure,I don't know,36,Male,United States of America
+0,1,Yes,Yes,No,37,female,United States of America
+0,1,Yes,I am not sure,No,29,Male,United States of America
+0,1,Yes,Yes,I don't know,25,Male,United States of America
+0,1,Yes,No,Yes,34,f,United States of America
+0,0,Yes,Yes,Yes,37,M,Canada
+0,1,Yes,Yes,No,40,Female,United States of America
+0,1,Yes,Yes,Yes,32,Male,United States of America
+0,1,I don't know,No,No,38,Male,United Kingdom
+0,1,Yes,I am not sure,Yes,31,Female,United States of America
+0,1,Yes,Yes,I don't know,28,female,United States of America
+0,1,No,No,No,27,female,United Kingdom
+0,1,Yes,Yes,No,28,female,United States of America
+0,1,I don't know,Yes,No,26,Male,Germany
+0,1,Yes,Yes,Yes,40,Male,United States of America
+0,1,Yes,Yes,Yes,42,Male,United States of America
+0,1,Yes,I am not sure,I don't know,36,Male,United States of America
+1,,,,,44,male,United Kingdom
+0,1,Yes,Yes,No,24,Male,United States of America
+0,0,I don't know,I am not sure,No,44,Male,United States of America
+0,1,Yes,I am not sure,I don't know,31,Male,United States of America
+1,,,,,49,m,United States of America
+0,1,Yes,No,Yes,27,female/woman,United States of America
+0,1,Yes,I am not sure,I don't know,27,Cis male,United States of America
+0,1,Yes,Yes,No,28,Male,United States of America
+0,1,Yes,Yes,No,20,Female,United States of America
+1,,,,,41,Male ,Germany
+0,0,No,N/A,No,38,Male,Australia
+0,1,I don't know,No,No,29,male,United States of America
+0,1,Yes,No,No,44,f,United States of America
+0,1,I don't know,I am not sure,No,31,Male.,United States of America
+0,1,No,No,No,54,m,United States of America
+0,1,I don't know,No,No,33,m,Germany
+0,1,No,No,No,29,male,Netherlands
+0,1,I don't know,I am not sure,No,26,Androgynous,United Kingdom
+0,1,I don't know,No,Yes,26,male,United Kingdom
+1,,,,,34,Male,United Kingdom
+0,1,I don't know,No,No,38,Female,United States of America
+0,1,No,No,No,30,Male,United Kingdom
+1,,,,,34,Male,United Kingdom
+0,1,Yes,I am not sure,No,47,F,Australia
+0,0,Yes,I am not sure,Yes,33,Female,Switzerland
+0,0,I don't know,N/A,No,22,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,28,"male 9:1 female, roughly",United Kingdom
+0,1,Yes,Yes,Yes,31,m,United Kingdom
+0,0,Not eligible for coverage / N/A,N/A,No,24,N/A,United Kingdom
+0,0,No,I am not sure,No,56,m,Australia
+1,,,,,57,F,Australia
+0,1,I don't know,I am not sure,No,39,M,United States of America
+0,1,No,No,I don't know,21,Male,United Kingdom
+0,1,I don't know,No,No,31,female,Russia
+1,,,,,63,Male,United States of America
+1,,,,,46,male,Australia
+0,1,I don't know,No,No,32,Female,United Kingdom
+1,,,,,35,m,United Kingdom
+0,1,Yes,I am not sure,Yes,34,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,35,male,United States of America
+0,1,No,I am not sure,Yes,31,Male,Norway
+1,,,,,35,F,United States of America
+0,0,I don't know,No,No,36,Male,United States of America
+0,1,Yes,I am not sure,No,50,Male,United States of America
+0,1,I don't know,I am not sure,No,31,Male,United States of America
+0,1,Yes,Yes,No,47,male,United States of America
+0,1,I don't know,I am not sure,No,32,Female,Canada
+0,1,Yes,Yes,No,23,Female,Canada
+0,1,Yes,I am not sure,No,43,Female,Canada
+0,1,Yes,Yes,No,26,Female,Canada
+0,1,I don't know,I am not sure,No,26,female,Canada
+0,1,Yes,Yes,Yes,55,Female,Canada
+0,1,Yes,No,Yes,27,Male,Canada
+0,1,Not eligible for coverage / N/A,No,No,34,Male,Argentina
+0,1,No,N/A,No,25,Male,India
+0,0,I don't know,No,No,35,male,United States of America
+1,,,,,37,Male,Netherlands
+0,1,Yes,I am not sure,No,38,Female,United States of America
+0,1,Yes,No,No,29,male,Canada
+0,1,Yes,Yes,Yes,28,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,Yes,29,Male,United States of America
+0,1,Yes,I am not sure,No,40,male,United States of America
+0,1,Yes,Yes,Yes,25,Female,United States of America
+1,,,,,29,Male,Sweden
+0,1,Yes,Yes,Yes,29,F,United States of America
+0,1,Yes,Yes,No,35,M,Netherlands
+1,,,,,25,Male,United States of America
+0,1,No,Yes,No,43,Male,United States of America
+0,1,No,N/A,No,26,Male,Ireland
+0,1,I don't know,No,No,31,male,Germany
+0,1,Yes,Yes,I don't know,31,female,United States of America
+0,0,I don't know,No,No,45,F,United States of America
+0,1,No,No,No,23,Male,Italy
+0,1,I don't know,No,No,39,Male,United States of America
+0,1,Yes,I am not sure,No,27,Female,United States of America
+0,1,Yes,I am not sure,No,28,Male,United States of America
+0,1,I don't know,No,No,36,Male,United States of America
+0,1,I don't know,No,No,22,male,Germany
+0,1,Yes,I am not sure,No,51,Male,United States of America
+1,,,,,39,Male,Denmark
+1,,,,,36,Male,United States of America
+0,0,Not eligible for coverage / N/A,I am not sure,No,28,male,United States of America
+0,1,I don't know,No,No,40,M,United States of America
+0,1,Yes,Yes,Yes,35,Female,United States of America
+0,1,Yes,Yes,No,38,Male,United States of America
+0,1,Yes,I am not sure,No,29,Male,United States of America
+1,,,,,43,M,Netherlands
+0,1,Yes,No,No,31,f,United States of America
+0,1,No,No,No,45,male,United States of America
+0,1,I don't know,I am not sure,No,26,Male,United States of America
+0,1,Yes,Yes,Yes,42,Male,United States of America
+0,1,Yes,I am not sure,Yes,28,f,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,28,Male,United Kingdom
+0,1,Yes,No,Yes,39,female,United States of America
+0,1,Yes,I am not sure,No,34,Male (cis),United States of America
+0,1,I don't know,No,No,28,Female,United States of America
+0,1,Yes,Yes,I don't know,35,Female,United States of America
+0,1,I don't know,I am not sure,No,42,male,Canada
+0,1,Yes,No,No,99,Other,United States of America
+1,,,,,29,Male,United Kingdom
+1,,,,,34,Male ,Finland
+0,1,Yes,I am not sure,No,28,Male,Canada
+0,1,I don't know,No,Yes,22,F,Russia
+0,1,Yes,Yes,No,28,female,United States of America
+1,,,,,26,Female,United States of America
+0,0,Yes,I am not sure,Yes,21,Female ,Australia
+0,1,No,No,No,38,male,Netherlands
+0,0,Yes,Yes,Yes,33,M,United States of America
+0,1,Yes,I am not sure,Yes,28,Female,United States of America
+0,1,Yes,Yes,Yes,32,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,24,Female,Australia
+0,1,I don't know,I am not sure,No,35,male,United States of America
+1,,,,,41,Male,Turkey
+1,,,,,38,F,United States of America
+0,1,I don't know,I am not sure,No,24,Female,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+0,1,Yes,Yes,I don't know,47,female,United States of America
+0,1,Yes,I am not sure,I don't know,26,female,United States of America
+0,1,Yes,Yes,No,32,Male,United States of America
+0,1,I don't know,No,No,32,Male,United States of America
+0,1,I don't know,No,I don't know,37,male,United States of America
+1,,,,,33,male,Netherlands
+0,1,No,N/A,No,28,f,United Kingdom
+0,1,I don't know,No,Yes,22,man,Netherlands
+0,1,I don't know,I am not sure,Yes,30,Male,United States of America
+1,,,,,42,Female,United States of America
+0,1,Yes,I am not sure,No,34,male,United States of America
+0,1,Yes,Yes,No,32,Male,United States of America
+0,1,No,No,No,37,male,United Kingdom
+1,,,,,31,Female,United States of America
+0,1,I don't know,No,Yes,31,Male,United States of America
+0,0,No,I am not sure,No,26,male,Colombia
+1,,,,,30,Male,United States of America
+0,1,Yes,Yes,No,36,m,United States of America
+0,1,Yes,No,No,38,Male,United States of America
+0,1,Yes,Yes,No,24,Male,United States of America
+0,1,I don't know,No,No,26,male,United States of America
+0,1,Yes,I am not sure,Yes,37,Male,United States of America
+0,1,I don't know,I am not sure,No,27,Female,United Kingdom
+1,,,,,32,Male,Switzerland
+0,1,Yes,I am not sure,Yes,32,Male,Netherlands
+0,0,Yes,I am not sure,No,30,Male,Netherlands
+0,1,No,No,Yes,26,Female,Germany
+1,,,,,27,Female,United Kingdom
+1,,,,,27,Male,Netherlands
+0,1,Not eligible for coverage / N/A,No,No,29,Male,Colombia
+0,1,Yes,Yes,Yes,26,nb masculine,Germany
+0,1,Yes,I am not sure,No,23,Female,United States of America
+0,1,Yes,Yes,Yes,30,Male,United States of America
+0,0,Yes,No,I don't know,40,M,United States of America
+0,1,I don't know,I am not sure,No,46,male,United States of America
+0,1,I don't know,I am not sure,No,26,Male,United States of America
+0,1,Yes,Yes,Yes,30,m,United States of America
+0,1,No,No,No,27,f,United States of America
+1,,,,,35,male,United States of America
+0,1,Yes,Yes,No,26,Cisgender Female,United States of America
+0,1,I don't know,No,I don't know,35,Male,Australia
+0,0,I don't know,I am not sure,No,29,Male,Netherlands
+0,1,I don't know,N/A,Yes,34,Male,United Kingdom
+1,,,,,27,male,United States of America
+0,1,No,N/A,No,39,Male,United Kingdom
+0,1,I don't know,N/A,I don't know,27,Male,United Kingdom
+0,1,No,No,No,31,Male,Czech Republic
+0,0,No,No,No,26,Male,United Kingdom
+0,1,Yes,No,No,44,male,United States of America
+0,1,Yes,No,I don't know,27,male,United States of America
+0,0,Yes,I am not sure,No,57,Female,United States of America
+1,,,,,34,m,United States of America
+1,,,,,38,Male,United States of America
+1,,,,,55,Male,United States of America
+1,,,,,28,male,Costa Rica
+0,0,I don't know,I am not sure,No,35,Male,United States of America
+0,1,Yes,No,No,26,Male,United States of America
+0,1,I don't know,I am not sure,Yes,22,female,United States of America
+0,1,I don't know,I am not sure,No,31,Male,United States of America
+0,1,I don't know,No,No,31,male,United Kingdom
+1,,,,,40,Male,Germany
+0,0,Yes,Yes,No,26,m,United States of America
+0,1,No,N/A,No,36,M,United States of America
+0,1,Yes,Yes,No,33,Male,United States of America
+0,1,Yes,I am not sure,Yes,24,F,United States of America
+0,1,No,No,No,22,male,Vietnam
+0,1,Yes,Yes,No,33,male,United States of America
+0,1,Yes,No,No,37,f,United States of America
+0,1,Yes,I am not sure,No,29,Male,United States of America
+0,0,Not eligible for coverage / N/A,N/A,Yes,38,Male,United States of America
+0,1,No,N/A,No,33,m,United States of America
+0,1,I don't know,I am not sure,No,44,Female,Canada
+0,0,Yes,I am not sure,No,23,Male,United States of America
+1,,,,,30,M,United States of America
+0,0,I don't know,No,No,30,Man,United States of America
+0,1,Yes,No,No,28,male,United States of America
+0,1,Yes,Yes,No,39,male,United States of America
+0,1,No,No,No,24,Female,United States of America
+1,,,,,27,Male,United Kingdom
+0,0,Yes,Yes,Yes,35,Male,United States of America
+0,1,No,No,No,23,Male,United States of America
+0,0,Yes,I am not sure,I don't know,37,M,United States of America
+0,1,Yes,I am not sure,No,35,Male,United States of America
+0,0,Yes,Yes,No,27,Male,United States of America
+0,1,I don't know,I am not sure,No,27,Female,United States of America
+0,1,Yes,I am not sure,No,27,Female,United States of America
+0,1,I don't know,I am not sure,No,42,m,United States of America
+0,0,Yes,I am not sure,No,32,Sex is male,United States of America
+0,1,I don't know,I am not sure,No,26,Male,Finland
+0,1,I don't know,No,No,28,Male,Bulgaria
+0,1,I don't know,No,No,28,M,United States of America
+0,1,Yes,No,No,32,Male,United States of America
+1,,,,,43,male,United States of America
+0,1,Yes,I am not sure,Yes,34,Male,United States of America
+0,1,I don't know,I am not sure,No,61,f,United States of America
+1,,,,,50,Male,United States of America
+1,,,,,38,Male,India
+0,0,Not eligible for coverage / N/A,I am not sure,I don't know,51,m,Germany
+1,,,,,38,male,Ireland
+0,1,I don't know,I am not sure,I don't know,34,male,United States of America
+0,1,No,N/A,No,43,Male,United States of America
+0,1,Yes,No,No,43,Female,United States of America
+0,1,No,I am not sure,Yes,44,Male,United States of America
+0,1,I don't know,No,No,35,m,United States of America
+0,1,Yes,Yes,No,50,Male,United States of America
+0,1,Yes,Yes,No,29,Male,United States of America
+0,1,Yes,Yes,Yes,29,Male,United States of America
+0,0,Yes,No,No,36,Male,Canada
+1,,,,,33,Male,Australia
+1,,,,,50,Male,Australia
+0,1,I don't know,I am not sure,No,46,Male,United States of America
+1,,,,,44,Female,New Zealand
+0,1,Yes,I am not sure,No,23,none of your business,United States of America
+0,1,I don't know,I am not sure,No,41,Male,United States of America
+0,1,Yes,No,Yes,31,male,Canada
+0,1,No,Yes,No,55,male,United States of America
+0,1,No,N/A,No,34,M,United States of America
+0,1,Yes,Yes,No,28,Female,United States of America
+0,1,Yes,No,No,33,m,United States of America
+0,1,Yes,No,No,29,Male,United States of America
+0,0,Yes,I am not sure,Yes,33,Female,United States of America
+1,,,,,28,male,United States of America
+0,1,Yes,Yes,Yes,28,male,United States of America
+0,1,Yes,No,Yes,32,Male,United States of America
+0,1,Yes,Yes,No,36,female,United States of America
+0,0,I don't know,I am not sure,Yes,45,Male,United Kingdom
+1,,,,,29,M,United Kingdom
+0,0,No,No,Yes,23,Male,France
+1,,,,,54,Female,Canada
+1,,,,,61,F,United States of America
+0,1,I don't know,I am not sure,No,29,Female,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,31,Male,Australia
+1,,,,,37,M,United States of America
+0,1,No,No,No,29,Male,Germany
+1,,,,,28,Male,United Kingdom
+0,1,I don't know,I am not sure,No,30,Male,United Kingdom
+0,1,Yes,I am not sure,Yes,55,Male,United Kingdom
+0,0,I don't know,No,No,38,Female,United States of America
+0,1,I don't know,I am not sure,No,20,male,Canada
+0,1,No,Yes,No,25,Male,United States of America
+1,,,,,22,Male,Spain
+1,,,,,35,Male,United Kingdom
+0,0,I don't know,No,No,27,male,United States of America
+0,0,No,N/A,No,24,Male,United States of America
+1,,,,,39,Male,Australia
+0,0,I don't know,I am not sure,No,29,Male,Brazil
+0,1,No,I am not sure,No,40,Female,United States of America
+0,1,No,No,No,30,Male,United States of America
+0,1,Yes,No,No,32,Male,Canada
+1,,,,,34,m,Germany
+0,1,Yes,I am not sure,I don't know,35,F,Canada
+1,,,,,30,Male,United States of America
+0,1,No,No,No,36,Male,United Kingdom
+0,1,I don't know,No,I don't know,26,male,Sweden
+0,0,I don't know,I am not sure,Yes,31,Female,Netherlands
+0,0,Not eligible for coverage / N/A,N/A,Yes,33,Male,South Africa
+1,,,,,30,Male,United Kingdom
+0,1,I don't know,I am not sure,No,46,m,United Kingdom
+0,1,No,No,No,32,Male,United States of America
+0,1,Yes,I am not sure,I don't know,34,male,United States of America
+0,1,I don't know,I am not sure,No,41,male,United States of America
+0,1,I don't know,I am not sure,No,32,Male,United States of America
+0,0,Yes,No,I don't know,47,Male,United States of America
+0,1,I don't know,No,No,29,male,United States of America
+0,0,Yes,I am not sure,Yes,36,male,United States of America
+0,1,No,Yes,No,32,Male,United States of America
+0,1,I don't know,No,No,29,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,22,Male,United Kingdom
+0,1,Yes,Yes,No,32,female,United States of America
+0,0,Yes,I am not sure,No,19,Female,United States of America
+0,1,No,N/A,No,30,Male,South Africa
+0,1,I don't know,I am not sure,No,32,genderqueer,United States of America
+0,1,I don't know,I am not sure,I don't know,22,M,United States of America
+1,,,,,30,male,Poland
+0,1,Yes,No,I don't know,323,Male,United States of America
+0,1,No,No,No,33,male,Slovakia
+0,1,No,I am not sure,No,48,f,United Kingdom
+0,1,No,No,No,45,male,Germany
+0,1,I don't know,I am not sure,Yes,28,Male,United Kingdom
+0,1,I don't know,No,I don't know,44,male,United States of America
+0,1,No,N/A,No,31,Male,United States of America
+0,1,Yes,I am not sure,No,31,f,United States of America
+0,1,Yes,No,Yes,29,Male,United States of America
+0,0,Yes,Yes,No,26,Male,United States of America
+0,0,Yes,Yes,Yes,35,f,United States of America
+1,,,,,44,m,Austria
+0,1,Yes,No,No,45,male,United States of America
+0,0,Yes,I am not sure,No,22,Female,United States of America
+0,1,Yes,Yes,No,34,Male,United States of America
+0,1,I don't know,I am not sure,No,35,Male,United Kingdom
+1,,,,,39,Male,United States of America
+0,1,Not eligible for coverage / N/A,Yes,No,26,Male,Denmark
+1,,,,,41,Male,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,I don't know,24,Male,Australia
+0,1,I don't know,No,No,24,Male,United States of America
+0,1,Yes,Yes,No,34,male,United States of America
+0,1,No,N/A,No,36,Male,Australia
+0,0,Yes,Yes,I don't know,41,Male,Australia
+0,1,Not eligible for coverage / N/A,I am not sure,No,21,Male,United States of America
+0,1,I don't know,I am not sure,No,33,Male,Bangladesh
+0,1,I don't know,I am not sure,No,32,Male,India
+0,0,Yes,Yes,No,62,Female,United States of America
+0,0,Yes,Yes,No,37,M,United States of America
+0,1,I don't know,I am not sure,No,32,male,United States of America
+0,1,Yes,Yes,I don't know,31,Male,United States of America
+0,1,I don't know,I am not sure,No,28,Male,United States of America
+1,,,,,48,Female,United States of America
+1,,,,,40,male,United States of America
+0,1,Yes,Yes,No,29,Male,Norway
+0,0,Yes,Yes,Yes,33,M,Germany
+0,0,I don't know,I am not sure,Yes,27,Male,Finland
+0,0,Not eligible for coverage / N/A,N/A,No,24,m,Australia
+1,,,,,28,Male,Netherlands
+0,1,Yes,Yes,Yes,42,Male,United States of America
+0,1,No,N/A,No,28,m,United Kingdom
+0,1,I don't know,No,No,40,Male,Canada
+0,1,Yes,I am not sure,No,32,Female,United States of America
+1,,,,,33,Male,United States of America
+1,,,,,40,m,United States of America
+0,1,Yes,Yes,No,26,Male,United States of America
+0,1,I don't know,I am not sure,No,39,Female,United States of America
+0,0,Not eligible for coverage / N/A,N/A,Yes,38,Male,United Kingdom
+0,1,Yes,No,No,34,Male,United States of America
+0,0,I don't know,N/A,No,44,Male,Netherlands
+1,,,,,54,Male,United Kingdom
+0,1,Yes,No,No,24,male,Pakistan
+0,1,Yes,Yes,Yes,31,Male,United States of America
+0,1,Yes,Yes,I don't know,47,cis male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,30,Male,Australia
+1,,,,,34,M,United States of America
+0,1,Yes,I am not sure,Yes,29,Human,United States of America
+0,1,Yes,I am not sure,No,27,Male,United States of America
+0,0,Yes,No,Yes,29,male,United States of America
+1,,,,,43,Female,United States of America
+0,1,Yes,I am not sure,No,31,Genderfluid,United States of America
+0,0,I don't know,I am not sure,No,27,Male,Norway
+0,1,No,N/A,No,29,M,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,29,Male,United Kingdom
+0,1,Yes,I am not sure,No,42,Male,United States of America
+0,1,Yes,I am not sure,No,26,Female,United States of America
+0,1,I don't know,I am not sure,Yes,26,male,Switzerland
+1,,,,,34,Male,United Kingdom
+0,0,Yes,Yes,Yes,24,Male,United States of America
+0,0,Yes,No,Yes,25,male,United States of America
+0,1,Yes,Yes,No,22,M,United States of America
+0,1,Yes,I am not sure,No,33,male,United States of America
+0,1,Yes,No,No,53,m,United States of America
+0,1,Yes,Yes,No,32,M,Canada
+0,1,No,N/A,No,32,male,United States of America
+1,,,,,55,m,United States of America
+0,1,I don't know,No,No,27,male,France
+0,1,Not eligible for coverage / N/A,N/A,No,34,Male,United Kingdom
+0,1,No,N/A,No,26,Male,United States of America
+0,1,I don't know,No,No,25,N/A,United States of America
+0,1,Yes,Yes,Yes,39,Male,United Kingdom
+0,1,I don't know,I am not sure,Yes,32,male,United States of America
+1,,,,,46,Male,United Kingdom
+1,,,,,52,F,United States of America
+0,1,I don't know,No,Yes,33,Enby,United Kingdom
+0,1,Yes,No,I don't know,58,Male,United States of America
+0,1,No,No,No,30,male,Canada
+1,,,,,46,Malr,Sweden
+0,0,I don't know,No,I don't know,45,male,United States of America
+0,1,No,N/A,No,26,f,Canada
+0,1,Yes,Yes,No,22,Male,United States of America
+0,1,I don't know,I am not sure,No,21,Male,United States of America
+0,1,Yes,I am not sure,Yes,3,Male,Canada
+0,0,I don't know,No,Yes,34,m,United States of America
+0,1,I don't know,No,Yes,25,female,United States of America
+0,1,Yes,I am not sure,No,27,Male,United States of America
+0,1,Yes,I am not sure,No,25,Female ,United States of America
+0,1,Yes,Yes,Yes,33,Male,United Kingdom
+1,,,,,26,Female,Canada
+0,1,No,I am not sure,No,36,Female,United States of America
+0,1,No,No,I don't know,26,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,I am not sure,No,34,Male,United States of America
+0,1,Yes,Yes,No,34,Male,United States of America
+0,0,Yes,Yes,No,25,Male,United States of America
+1,,,,,33,Female,United States of America
+0,1,No,Yes,No,27,f,Canada
+0,1,I don't know,I am not sure,No,24,Female,Canada
+0,0,Yes,I am not sure,No,47,female,United States of America
+0,1,Yes,I am not sure,No,37,Male,United States of America
+0,0,I don't know,No,No,35,genderqueer woman,United States of America
+0,0,Yes,Yes,No,30,Male,United States of America
+0,0,Yes,No,Yes,42,male,United States of America
+1,,,,,36,Female,United States of America
+0,1,Yes,No,No,31,male,United States of America
+0,1,Yes,I am not sure,Yes,28,female,United States of America
+0,0,Yes,Yes,Yes,36,Female,United States of America
+0,1,Yes,Yes,No,36,Female,United States of America
+0,0,I don't know,No,No,32,m,Canada
+1,,,,,42,male,United States of America
+0,1,Yes,No,No,41,Female,United States of America
+0,0,Yes,Yes,No,36,Male,Sweden
+0,1,Yes,Yes,Yes,23,Male,United States of America
+0,0,Yes,Yes,Yes,54,Female,United States of America
+0,0,I don't know,I am not sure,Yes,34,female,United States of America
+0,1,I don't know,No,No,36,m,Netherlands
+0,1,Yes,Yes,No,27,male,United States of America
+0,1,Yes,Yes,No,32,male,United States of America
+0,1,Yes,Yes,No,21,Male,Germany
+0,1,I don't know,No,Yes,44,m,United States of America
+0,1,I don't know,I am not sure,I don't know,33,m,United States of America
+0,1,Yes,No,No,38,M,United Kingdom
+0,1,Yes,I am not sure,Yes,38,Male,Ireland
+1,,,,,38,female,United States of America
+0,1,I don't know,No,No,22,Female,Brazil
+1,,,,,33,mtf,United States of America
+0,0,I don't know,No,No,27,f,Canada
+1,,,,,55,female,United States of America
+0,0,No,No,No,66,male,United States of America
+0,0,I don't know,I am not sure,No,25,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,22,Male,Netherlands
+0,1,No,No,No,29,male,Brazil
+0,1,No,No,Yes,33,Male,New Zealand
+0,1,No,No,No,27,Male,Sweden
+0,1,I don't know,No,No,44,male,United States of America
+1,,,,,38,Male,Bulgaria
+0,0,I don't know,I am not sure,No,32,M,United States of America
+0,0,Yes,I am not sure,Yes,59,female,United States of America
+1,,,,,43,man,Sweden
+1,,,,,55,female,Germany
+0,1,Yes,Yes,I don't know,32,Male,United States of America
+0,0,Not eligible for coverage / N/A,N/A,No,41,male,United Kingdom
+0,1,No,I am not sure,No,38,f,United States of America
+1,,,,,46,Male,United States of America
+0,0,No,No,Yes,43,Male,United Kingdom
+0,1,Yes,Yes,No,29,Female,United States of America
+1,,,,,42,male,United States of America
+0,1,I don't know,I am not sure,Yes,25,female ,United States of America
+0,1,Yes,Yes,Yes,49,Male,Afghanistan
+0,1,No,No,Yes,36,Male,United States of America
+1,,,,,30,Male,United Kingdom
+0,1,I don't know,I am not sure,No,28,Male,United States of America
+0,0,I don't know,No,No,37,m,United States of America
+0,0,Not eligible for coverage / N/A,Yes,No,23,female,United States of America
+1,,,,,37,Male,United Kingdom
+1,,,,,42,m,Netherlands
+0,0,Yes,Yes,Yes,32,male,United States of America
+0,1,No,N/A,I don't know,28,Male,Canada
+0,0,I don't know,I am not sure,No,28,M,United Kingdom
+0,1,Yes,Yes,No,29,Male,United States of America
+0,1,I don't know,I am not sure,No,35,Male,United States of America
+1,,,,,31,Female,United States of America
+1,,,,,46,Female,United States of America
+1,,,,,19,male,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,Yes,35,Male,Sweden
+0,0,Yes,I am not sure,No,31,Male,United Kingdom
+1,,,,,31,Male,United States of America
+0,1,Yes,Yes,Yes,37,m,Canada
+0,1,I don't know,I am not sure,Yes,34,Female,United States of America
+0,1,Yes,Yes,No,39,Woman,United States of America
+1,,,,,29,Female,United States of America
+0,1,Yes,Yes,No,29,female,United States of America
+0,1,Yes,I am not sure,No,63,Male,United States of America
+1,,,,,45,male,Australia
+1,,,,,35,m,Greece
+1,,,,,32,Male,United Kingdom
+1,,,,,44,Male,United States of America
+0,0,No,N/A,No,28,Queer,United Kingdom
+1,,,,,39,male,Ireland
+1,,,,,55,female,United States of America
+1,,,,,33,female,United States of America
+0,1,No,No,No,19,Male,India
+0,1,Yes,No,No,40,Male,United States of America
+0,0,Yes,Yes,Yes,49,F,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,27,Female,Australia
+0,0,Yes,Yes,No,39,male,United States of America
+0,0,I don't know,I am not sure,Yes,35,Male,United Kingdom
+0,1,I don't know,No,No,35,M,United States of America
+0,1,Yes,I am not sure,No,42,female,United States of America
+0,1,Yes,Yes,Yes,35,Male,Canada
+0,1,I don't know,No,No,31,female,United States of America
+1,,,,,44,Male ,United Kingdom
+0,1,Yes,Yes,No,39,Male,United States of America
+1,,,,,32,Male,Canada
+0,1,I don't know,I am not sure,No,45,m,New Zealand
+1,,,,,31,m,United States of America
+1,,,,,47,Female,United States of America
+0,1,No,I am not sure,No,29,M,United States of America
+0,1,Yes,No,No,20,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,34,m,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,33,Agender,United Kingdom
+1,,,,,56,female,United States of America
+1,,,,,35,Male,Canada
+0,1,Yes,Yes,No,31,m,United States of America
+0,1,Yes,Yes,Yes,36,Male,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+0,0,Yes,I am not sure,No,44,F,United States of America
+0,1,I don't know,I am not sure,No,23,Female,United States of America
+0,0,Yes,No,No,46,Male,United States of America
+0,1,Yes,Yes,No,33,female,United States of America
+0,0,Yes,Yes,No,32,female,United States of America
+1,,,,,45,Male,Other
+0,1,No,No,No,26,male,United States of America
+1,,,,,32,Woman,United States of America
+0,1,I don't know,I am not sure,No,28,Dude,United States of America
+1,,,,,44,M,United States of America
+1,,,,,42,Male,United Kingdom
+0,1,Yes,No,I don't know,30,Male,United States of America
+0,1,I don't know,No,No,28,F,United States of America
+0,1,Yes,Yes,I don't know,31,M,Canada
+0,1,Yes,No,No,29,male,United States of America
+0,1,I don't know,No,No,33,Male,United States of America
+0,1,Yes,Yes,I don't know,43,female,United States of America
+0,1,I don't know,I am not sure,Yes,28,Male,Australia
+1,,,,,42,Fluid,United States of America
+0,1,Yes,I am not sure,No,38,Male,United States of America
+0,0,Yes,Yes,No,30,Male,United States of America
+1,,,,,51,female,United States of America
+0,1,I don't know,No,No,48,F,United States of America
+1,,,,,39,Male,New Zealand
+0,1,No,No,No,28,Male,Australia
+0,1,Yes,Yes,Yes,37,Male,United States of America
+0,1,Yes,No,I don't know,33,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,21,Male,Australia
+0,0,Yes,I am not sure,No,25,male,United States of America
+1,,,,,15,male,Canada
+0,1,Yes,No,No,40,Male,United States of America
+0,0,No,I am not sure,No,30,Female,Canada
+1,,,,,27,Male,Romania
+0,1,No,No,No,25,male,India
+0,1,Yes,I am not sure,No,38,Male,Germany
+0,0,I don't know,No,No,24,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,23,Male,United Kingdom
+1,,,,,39,Female,United Kingdom
+0,1,I don't know,I am not sure,No,26,male,United States of America
+0,0,I don't know,I am not sure,No,43,Male,United Kingdom
+0,1,I don't know,I am not sure,No,30,Male,New Zealand
+1,,,,,35,Male,Germany
+0,0,I don't know,No,No,40,M,United Kingdom
+0,0,Yes,No,No,33,Female,United Kingdom
+1,,,,,35,male,Brunei
+0,1,No,No,No,22,Male,United Kingdom
+0,1,Yes,I am not sure,I don't know,28,Male,United States of America
+0,1,Yes,Yes,No,39,M,United States of America
+0,1,I don't know,No,I don't know,33,M,United States of America
+1,,,,,25,Female,United Kingdom
+0,1,I don't know,I am not sure,No,37,Male,United States of America
+0,1,I don't know,No,No,41,f,France
+0,1,Yes,I am not sure,No,30,Female,United States of America
+0,1,Yes,Yes,Yes,42,Male,United States of America
+0,1,Yes,No,No,52,Male,United States of America
+0,1,No,No,No,30,male,United States of America
+0,1,Yes,Yes,No,35,Male,United States of America
+0,1,I don't know,No,No,24,Male,United States of America
+0,1,I don't know,I am not sure,I don't know,39,Male,United States of America
+0,1,Yes,I am not sure,No,34,Male,United States of America
+1,,,,,32,Male,United States of America
+1,,,,,25,I'm a man why didn't you make this a drop down question. You should of asked sex? And I would of answered yes please. Seriously how much text can this take? ,United Kingdom
+0,0,No,No,No,43,Male,Poland
+0,1,Yes,No,No,39,male,United States of America
+1,,,,,35,Male,United States of America
+0,1,Yes,Yes,No,34,Male,United States of America
+0,0,Yes,I am not sure,Yes,38,Male,United Kingdom
+0,1,Yes,Yes,No,26,woman,United States of America
+0,1,No,I am not sure,No,24,male,Bulgaria
+0,0,I don't know,I am not sure,Yes,27,Female,United States of America
+0,1,Yes,Yes,Yes,25,male,United States of America
+1,,,,,37,m,United States of America
+0,0,Yes,I am not sure,I don't know,33,Male,Canada
+0,0,No,I am not sure,Yes,34,Male,United States of America
+0,1,I don't know,I am not sure,No,27,Male,Canada
+0,1,Yes,No,No,33,Male,United States of America
+0,1,Yes,I am not sure,No,50,mail,United States of America
+1,,,,,54,female,United States of America
+0,1,Yes,I am not sure,Yes,32,female ,Canada
+0,1,I don't know,I am not sure,I don't know,39,m,Canada
+0,1,I don't know,No,I don't know,36,Male,United States of America
+0,1,I don't know,No,No,34,Male,Canada
+0,1,I don't know,I am not sure,No,31,female,United States of America
+0,0,No,N/A,Yes,36,male,United States of America
+0,0,I don't know,I am not sure,Yes,48,Male,United States of America
+0,1,I don't know,No,No,31,male,United States of America
+0,1,No,N/A,No,32,M,United States of America
+0,1,I don't know,I am not sure,No,32,M,United States of America
+1,,,,,31,male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,28,Female,United States of America
+0,0,I don't know,No,No,28,male,United Kingdom
+0,1,Yes,Yes,No,33,F,United States of America
+1,,,,,33,M,United States of America
+1,,,,,59,M,United States of America
+1,,,,,33,male,United States of America
+0,1,I don't know,No,No,37,Male,United States of America
+0,1,I don't know,I am not sure,No,27,female,Germany
+0,1,No,No,No,39,Male,United States of America
+1,,,,,50,M,Germany
+0,0,Yes,Yes,I don't know,34,Female,United States of America
+1,,,,,50,male,Germany
+0,1,Not eligible for coverage / N/A,N/A,No,31,Female,Other
+0,0,Yes,Yes,No,39,male,United States of America
+0,1,I don't know,No,No,46,Male,United States of America
+0,1,I don't know,No,No,28,M,United States of America
+0,1,I don't know,I am not sure,No,32,male,France
+1,,,,,65,F,United States of America
+1,,,,,37,Male,United States of America
+1,,,,,41,Female,United States of America
+1,,,,,38,Male,United States of America
+0,0,I don't know,I am not sure,Yes,51,male,United States of America
+0,0,I don't know,No,No,29,Male,United States of America
+1,,,,,37,Male,Canada
+1,,,,,31,Male,Canada
+0,1,No,N/A,No,32,Male,Iran
+1,,,,,31,male,Sweden
+0,0,Not eligible for coverage / N/A,N/A,No,52,m,Switzerland
+1,,,,,31,male,Switzerland
+1,,,,,38,F,United Kingdom
+0,0,Yes,Yes,No,35,Male,United States of America
+1,,,,,29,Male,United States of America
+1,,,,,63,Male,United States of America
+1,,,,,47,female,United States of America
+1,,,,,43,M,Austria
+0,1,No,N/A,No,38,male,Ireland
+0,0,I don't know,No,No,27,Male,United States of America
+0,1,I don't know,No,No,40,Female,United States of America
+0,0,Not eligible for coverage / N/A,N/A,I don't know,32,Male,South Africa
+1,,,,,43,female,United States of America
+0,0,Yes,Yes,No,28,female,Germany
+1,,,,,46,Male,United Kingdom
+0,0,No,Yes,No,42,male,United States of America
+0,1,No,Yes,No,31,Male,United States of America
+1,,,,,37,F,United States of America
+0,1,No,N/A,No,35,M,Canada
+1,,,,,30,Female,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,Yes,35,Male,Australia
+0,1,Yes,Yes,No,24,Male,United States of America
+0,1,No,No,No,23,male,India
+1,,,,,39,Female,United Kingdom
+0,1,No,N/A,Yes,38,Male,France
+1,,,,,28,Male,United Kingdom
+1,,,,,30,m,United Kingdom
+1,,,,,38,Male,United Kingdom
+0,1,I don't know,No,No,33,M,France
+0,1,I don't know,I am not sure,I don't know,35,Male,United Kingdom
+1,,,,,54,M|,United Kingdom
+0,1,I don't know,N/A,I don't know,30,female,Germany
+1,,,,,32,Female,United Kingdom
+0,1,I don't know,No,No,28,male,United States of America
+0,1,No,I am not sure,Yes,39,m,Germany
+0,1,No,Yes,No,21,non-binary,United States of America
+0,1,Yes,Yes,Yes,31,male,Germany
+0,1,I don't know,No,I don't know,30,male,United States of America
+0,1,Yes,I am not sure,No,25,Female,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,No,26,Male,United Kingdom
+0,1,Yes,I am not sure,No,30,male,United States of America
+0,1,No,N/A,I don't know,30,M,Italy
+0,1,I don't know,I am not sure,Yes,31,Male,Bulgaria
+0,1,I don't know,I am not sure,No,32,M,United States of America
+0,0,No,N/A,No,45,female,United Kingdom
+1,,,,,29,Male,Switzerland
+0,1,Yes,No,No,27,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,I don't know,28,Female,United Kingdom
+0,1,Yes,No,No,38,m,United States of America
+0,0,Yes,Yes,I don't know,38,male,United States of America
+0,1,I don't know,I am not sure,I don't know,34,Male,Hungary
+1,,,,,36,M,Netherlands
+0,1,I don't know,No,No,23,male,France
+0,0,Yes,I am not sure,No,40,Female,United States of America
+1,,,,,39,Male,United States of America
+0,1,I don't know,I am not sure,No,28,Male,United States of America
+0,1,I don't know,No,No,33,male,United States of America
+1,,,,,32,Male ,United States of America
+0,0,Yes,No,Yes,32,Male,United States of America
+0,1,Yes,Yes,Yes,27,M,United States of America
+0,1,No,No,No,33,Male,Israel
+0,0,I don't know,I am not sure,No,34,Male,Japan
+1,,,,,38,f,India
+0,0,Yes,No,I don't know,35,M,United States of America
+0,1,Yes,I am not sure,Yes,39,M,United States of America
+0,0,Yes,I am not sure,No,35,male,United States of America
+0,0,I don't know,No,No,34,Male,United States of America
+1,,,,,44,Female,United States of America
+0,0,Yes,I am not sure,No,42,M,United States of America
+0,0,Yes,No,No,30,Male,United States of America
+0,0,Yes,No,No,55,Male,United States of America
+0,1,No,Yes,No,46,m,United States of America
+0,0,Yes,Yes,No,33,male,United States of America
+0,0,Yes,I am not sure,No,30,Male,United States of America
+0,1,No,N/A,No,30,male,United Kingdom
+0,1,Yes,Yes,No,31,Female,United States of America
+0,1,Yes,I am not sure,No,38,Male,Ireland
+0,1,Yes,Yes,Yes,30,female,United Kingdom
+0,1,Yes,Yes,Yes,32,Male,United States of America
+0,0,No,N/A,No,32,Male,United Kingdom
+0,1,Yes,No,No,47,Male,United States of America
+0,1,No,N/A,Yes,39,Male,United Kingdom
+0,0,I don't know,I am not sure,No,35,Male,United States of America
+0,1,Yes,Yes,No,36,Male,United States of America
+0,0,Yes,Yes,Yes,38,female,United States of America
+0,1,I don't know,I am not sure,Yes,30,Male,United States of America
+0,1,I don't know,I am not sure,No,33,Male,United States of America
+0,1,I don't know,I am not sure,I don't know,22,male,United States of America
+1,,,,,35,m,United States of America
+0,0,I don't know,No,No,26,m,United States of America
+0,1,Yes,Yes,I don't know,34,Male,United States of America
+1,,,,,40,male,United States of America
+0,1,No,N/A,No,37,male,Bulgaria
+0,1,No,No,No,43,M,Switzerland
+1,,,,,20,Male,United States of America
+0,1,I don't know,No,No,30,Female,United States of America
+0,1,Yes,I am not sure,Yes,32,Male,United States of America
+0,0,Yes,Yes,I don't know,35,male,United States of America
+0,1,Yes,No,No,29,male,United States of America
+0,0,No,I am not sure,No,29,male,United States of America
+0,1,Yes,No,I don't know,30,m,United States of America
+0,1,I don't know,No,No,30,male,United States of America
+0,1,Yes,I am not sure,No,38,Male,United States of America
+0,0,Yes,No,No,30,Male,Brazil
+0,1,No,No,No,26,Male,Netherlands
+1,,,,,27,Male,Germany
+0,1,No,N/A,No,24,Male,United States of America
+0,1,Yes,No,No,35,male,United States of America
+0,1,Yes,I am not sure,I don't know,38,Male,Sweden
+0,1,Yes,Yes,No,36,Male/genderqueer,United States of America
+1,,,,,34,Male,United Kingdom
+0,1,Yes,Yes,I don't know,35,Male,United States of America
+0,1,I don't know,I am not sure,No,25,Male,United States of America
+0,1,I don't know,I am not sure,No,32,Female,Sweden
+0,1,No,I am not sure,No,32,fem,United States of America
+1,,,,,37,male,United States of America
+0,1,I don't know,I am not sure,No,28,Male,Germany
+0,1,Yes,Yes,Yes,34,Female,United Kingdom
+0,1,Yes,Yes,No,40,Female,United States of America
+0,1,Yes,I am not sure,No,45,Male,United States of America
+0,1,I don't know,I am not sure,I don't know,31,Male,Sweden
+0,0,Yes,Yes,Yes,30,male,United States of America
+0,0,Yes,Yes,Yes,47,female,United Kingdom
+0,1,I don't know,No,No,48,m,United Kingdom
+1,,,,,44,Male,United States of America
+0,1,Not eligible for coverage / N/A,No,No,29,Male,United States of America
+0,0,Yes,Yes,Yes,52,m,United States of America
+0,1,Yes,Yes,No,34,Female,Sweden
+0,1,Yes,Yes,No,34,male,Netherlands
+0,1,I don't know,I am not sure,I don't know,27,Male,United States of America
+0,1,No,No,No,30,Male,Russia
+0,1,Yes,Yes,Yes,40,Male,United Kingdom
+1,,,,,26,Male,United States of America
+1,,,,,36,Male,United Kingdom
+0,0,I don't know,I am not sure,No,35,Male,United Kingdom
+0,0,Yes,No,No,43,Female,United Kingdom
+0,0,No,N/A,No,36,Female,United Kingdom
+0,0,Yes,Yes,No,32,Female,United States of America
+1,,,,,36,Female,Ireland
+0,1,No,N/A,No,38,Male,New Zealand
+0,0,Yes,I am not sure,I don't know,35,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,35,F,Australia
+0,1,Yes,I am not sure,No,45,m,United States of America
+1,,,,,47,male,New Zealand
+0,1,I don't know,I am not sure,No,27,male,United States of America
+0,1,I don't know,No,No,26,Male,United States of America
+1,,,,,51,Male,Australia
+0,1,No,No,No,25,Male,Ecuador
+0,1,No,N/A,No,41,male,South Africa
+0,0,Yes,Yes,No,34,Male,United States of America
+0,1,No,N/A,No,43,Male,Sweden
+0,1,I don't know,No,No,33,Male,United Kingdom
+1,,,,,37,m,Australia
+0,1,No,N/A,No,27,Female,United Kingdom
+1,,,,,54,F,United States of America
+0,0,I don't know,I am not sure,No,38,m,Italy
+0,1,No,No,No,42,male,Germany
+0,1,Yes,I am not sure,No,30,Male,United Kingdom
+0,1,Yes,I am not sure,Yes,43,M,Australia
+1,,,,,33,Male,Netherlands
+0,1,Not eligible for coverage / N/A,N/A,No,37,Female,Australia
+0,1,Yes,I am not sure,No,25,male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,Yes,27,Male,Australia
+1,,,,,27,Male,Canada
+0,0,Yes,No,No,27,Male,United States of America
+1,,,,,35,M,Germany
+0,1,No,N/A,No,24,male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,Yes,31,Nonbinary,Switzerland
+0,1,I don't know,I am not sure,No,31,male ,Germany
+0,1,Yes,No,Yes,32,male,United States of America
+0,1,No,No,Yes,33,Male,Australia
+1,,,,,56,M,United States of America
+0,1,Yes,I am not sure,No,43,Male,United States of America
+0,1,Yes,I am not sure,Yes,49,Male,Australia
+0,1,No,N/A,No,35,male,Bulgaria
+0,1,Yes,Yes,No,53,Male,Canada
+0,1,I don't know,I am not sure,I don't know,45,m,United States of America
+0,1,Yes,No,No,40,Male,United States of America
+0,0,Not eligible for coverage / N/A,I am not sure,Yes,52,Male,United States of America
+1,,,,,30,Male,United Kingdom
+0,1,Yes,Yes,No,41,Male,New Zealand
+1,,,,,31,male,Netherlands
+0,1,Not eligible for coverage / N/A,N/A,Yes,31,Male,Switzerland
+1,,,,,24,human,United States of America
+0,1,No,N/A,No,44,Male,Australia
+0,1,Yes,No,No,37,m,United States of America
+0,0,No,N/A,No,22,Male,Brazil
+0,1,Yes,Yes,Yes,31,Female,United States of America
+0,1,No,N/A,No,36,female,Bulgaria
+1,,,,,28,Male,Romania
+0,0,I don't know,No,No,25,female,United States of America
+1,,,,,49,male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,I don't know,22,woman,United States of America
+1,,,,,43,male,United States of America
+1,,,,,33,m,United States of America
+0,1,Yes,Yes,No,36,"Female (props for making this a freeform field, though)",United States of America
+0,1,Yes,I am not sure,No,26,female,United States of America
+0,0,Yes,I am not sure,I don't know,43,Male,United States of America
+1,,,,,21,male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,39,Male,Australia
+0,0,Yes,I am not sure,Yes,46,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,No,No,32,M,United Kingdom
+1,,,,,31,Male,United Kingdom
+1,,,,,39,female,United Kingdom
+0,1,I don't know,I am not sure,No,44,m,Sweden
+0,0,Yes,I am not sure,I don't know,36,male,United States of America
+0,0,I don't know,I am not sure,Yes,31,female,United Kingdom
+1,,,,,30,Nonbinary,United States of America
+0,1,Yes,I am not sure,No,36,male,United States of America
+1,,,,,31,m,United States of America
+0,1,No,N/A,No,23,male,Canada
+0,1,Yes,I am not sure,No,23,M,Canada
+1,,,,,30,Female ,United States of America
+1,,,,,34,male,Canada
+0,1,No,N/A,No,49,Female,United States of America
+0,1,No,I am not sure,No,25,m,Bosnia and Herzegovina
+0,0,No,No,No,39,Male,United Kingdom
+0,1,No,N/A,Yes,37,male,Germany
+0,1,I don't know,No,No,26,Male,United States of America
+0,1,I don't know,Yes,No,41,Male,United States of America
+0,1,No,N/A,No,28,Male,Netherlands
+0,1,Not eligible for coverage / N/A,N/A,No,33,Male,Sweden
+0,0,No,No,Yes,74, Female,United States of America
+0,0,I don't know,I am not sure,Yes,28,Male,Netherlands
+0,1,No,Yes,No,47,Male,United States of America
+0,0,I don't know,I am not sure,No,25,male,Bosnia and Herzegovina
+0,0,Yes,Yes,Yes,51,M,United States of America
+0,1,Yes,Yes,No,26,male,United States of America
+0,1,Yes,Yes,No,24,Male,United States of America
+1,,,,,33,F,United States of America
+0,1,Yes,Yes,No,32,Female ,United States of America
+0,1,Yes,No,No,57,male,United States of America
+0,0,Yes,Yes,No,39,Male,United States of America
+0,1,No,I am not sure,No,26,Female,United States of America
+0,0,I don't know,No,I don't know,38,Male,United States of America
+0,1,Yes,No,No,33,Male,Finland
+0,1,Yes,Yes,No,30,Male,United States of America
+0,1,I don't know,I am not sure,No,25,Female ,United States of America
+0,1,Yes,Yes,No,40,Male,United States of America
+0,0,Yes,Yes,No,26,Female,United States of America
+0,0,Yes,Yes,Yes,34,Male,United States of America
+0,0,Yes,Yes,Yes,46,F,United States of America
+0,0,Not eligible for coverage / N/A,N/A,No,31,female,United States of America
+1,,,,,42,male,Ireland
+0,1,I don't know,No,No,30,Male,United States of America
+1,,,,,26,Unicorn,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,No,29,male,Austria
+0,1,Yes,Yes,No,31,M,United States of America
+0,1,I don't know,I am not sure,No,40,Male,United States of America
+0,1,Yes,I am not sure,No,39,Cis Male,United States of America
+0,1,Yes,No,No,37,male,United States of America
+0,1,I don't know,I am not sure,No,27,Male,United States of America
+0,1,I don't know,No,No,45,m,United States of America
+0,1,I don't know,No,No,29,M,United States of America
+0,1,Yes,No,No,47,female,United States of America
+0,1,I don't know,No,No,33,male,United States of America
+0,1,I don't know,No,No,32,Male,United States of America
+0,1,I don't know,No,No,29,Male,United States of America
+0,1,Yes,I am not sure,No,36,Male,United States of America
+0,1,I don't know,I am not sure,No,35,F,United States of America
+0,1,Yes,No,No,40,Male,United States of America
+0,1,Yes,I am not sure,No,36,male,United States of America
+0,0,I don't know,No,I don't know,39,Female,United States of America
+0,1,Yes,No,I don't know,38,Male,United States of America
+0,1,I don't know,I am not sure,Yes,23,Male,United States of America
+0,0,No,No,No,29,male,United States of America
+0,1,I don't know,No,No,38,Male,United States of America
+0,0,Yes,Yes,No,34,Female,United States of America
+0,1,No,I am not sure,No,28,male,Brazil
+0,1,No,N/A,No,38,Male,New Zealand
+0,1,Yes,Yes,Yes,25,female,United States of America
+0,0,Yes,Yes,Yes,36,female,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,No,57,Female,United States of America
+0,0,I don't know,No,No,46,male,Ireland
+0,1,Yes,Yes,No,49,Male,United States of America
+0,1,I don't know,No,No,34,m,United States of America
+0,1,I don't know,No,No,43,Male,United Kingdom
+1,,,,,35,m,Ireland
+1,,,,,32,Male,United States of America
+0,0,Not eligible for coverage / N/A,N/A,Yes,24,"Male (trans, FtM)",Sweden
+0,0,Yes,Yes,No,33,Male,United States of America
+0,1,I don't know,No,No,28,Male,Finland
+0,1,Yes,I am not sure,No,48,Male,Germany
+0,1,Yes,Yes,No,33,female,United States of America
+0,1,Not eligible for coverage / N/A,N/A,I don't know,40,male,United States of America
+1,,,,,22,Male,United States of America
+0,1,No,No,No,22,female,United States of America
+0,1,Yes,Yes,Yes,23,Female,United States of America
+0,0,No,N/A,No,33,male,Germany
+0,1,I don't know,I am not sure,No,29,Male,Netherlands
+0,1,Yes,No,No,32,Male,United States of America
+0,1,Yes,Yes,No,43,m,United States of America
+0,0,Yes,No,Yes,49,Male,United States of America
+0,0,No,No,No,44,Male,Sweden
+1,,,,,29,Male,United States of America
+0,1,No,No,No,27,male,Canada
+0,0,I don't know,I am not sure,No,30,Male,United States of America
+0,1,No,N/A,No,43,F,United States of America
+0,1,Yes,Yes,No,30,Female ,United States of America
+0,0,Yes,No,No,33,Female,United States of America
+1,,,,,27,Female,United States of America
+0,1,I don't know,No,Yes,26,female,United States of America
+0,0,I don't know,Yes,Yes,47,m,Ireland
+0,1,I don't know,I am not sure,No,30,Male,United States of America
+0,1,I don't know,No,No,39,Male,United States of America
+0,1,I don't know,I am not sure,No,36,male,United States of America
+0,1,No,No,No,34,male,United Kingdom
+0,1,Yes,No,No,25,female,United States of America
+0,0,I don't know,No,Yes,28,Male,Finland
+0,1,Yes,Yes,I don't know,38,Male,United States of America
+0,1,Yes,No,No,39,Male,United States of America
+0,0,I don't know,I am not sure,No,32,Male,United States of America
+0,0,I don't know,I am not sure,No,27,female,United States of America
+0,1,Yes,Yes,I don't know,31,female,United States of America
+0,1,I don't know,No,No,30,female,United Kingdom
+1,,,,,34,m,United Kingdom
+0,1,I don't know,No,No,26,Male,United States of America
+0,1,Yes,I am not sure,I don't know,27,Female,United Kingdom
+0,1,I don't know,No,No,29,Male,United States of America
+1,,,,,37,Female,Canada
+1,,,,,49,F,United States of America
+0,0,I don't know,No,Yes,39,Male,United States of America
+1,,,,,42,m,China
+0,1,Yes,Yes,No,28,Male,United States of America
+1,,,,,33,Male,United States of America
+1,,,,,30,female,United Kingdom
+0,1,Yes,Yes,No,70,Male,United States of America
+0,1,No,N/A,No,25,Male,Germany
+0,1,I don't know,I am not sure,I don't know,45,Male,United Kingdom
+0,0,Yes,Yes,I don't know,63,F,United States of America
+0,1,Yes,Yes,Yes,40,male,United States of America
+0,1,Yes,Yes,No,39,male,United States of America
+0,1,Yes,No,No,31,Cis-woman,United States of America
+0,1,No,N/A,No,34,male,United States of America
+1,,,,,44,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,No,Yes,45,m,Ireland
+0,0,Yes,Yes,No,43,Male,United States of America
+0,1,Yes,Yes,No,29,male,United States of America
+0,1,Yes,Yes,No,27,Genderqueer,United States of America
+0,1,Yes,Yes,I don't know,37,Male,United States of America
+0,1,Yes,Yes,No,41,non-binary,United States of America
+0,1,Yes,Yes,No,30,woman,United States of America
+0,1,Yes,I am not sure,No,28,male,United States of America
+0,1,I don't know,I am not sure,No,28,Male,United States of America
+1,,,,,39,Male,Switzerland
+0,1,Not eligible for coverage / N/A,N/A,No,22,male,United Kingdom
+0,1,Yes,No,No,31,M,United States of America
+0,1,No,N/A,No,29,Male,United Kingdom
+0,1,No,No,No,33,male,Israel
+0,1,I don't know,No,No,37,male,Germany
+0,1,I don't know,I am not sure,No,42,Male,United States of America
+0,1,I don't know,No,No,31,male,United Kingdom
+1,,,,,34,male,United States of America
+1,,,,,49,F,United States of America
+0,1,Yes,Yes,Yes,29,male,Canada
+0,1,Yes,Yes,No,40,cisdude,United States of America
+0,1,I don't know,No,No,46,Female,Netherlands
+1,,,,,31,female,United States of America
+0,0,Yes,No,Yes,43,Male,Denmark
+1,,,,,45,male,Germany
+0,1,No,No,No,32,M,United Kingdom
+1,,,,,38,male,United States of America
+0,1,Yes,Yes,No,40,Male,Netherlands
+0,0,No,I am not sure,No,38,Male,Germany
+0,1,No,N/A,No,32,Male,United Kingdom
+0,0,I don't know,I am not sure,No,37,male,Mexico
+1,,,,,24,male,Sweden
+1,,,,,25,Female,United States of America
+0,1,No,No,No,24,Male,United States of America
+0,0,I don't know,I am not sure,No,34,Female,United States of America
+1,,,,,55,male,United States of America
+0,0,Yes,Yes,No,32,Male ,United States of America
+0,1,No,N/A,No,29,male,Romania
+0,1,Not eligible for coverage / N/A,No,I don't know,20,Male,United States of America
+0,0,Yes,Yes,Yes,41,male,United States of America
+0,1,Yes,Yes,Yes,33,female,United States of America
+0,1,I don't know,No,No,25,male,United States of America
+1,,,,,29,male,United Kingdom
+0,1,Yes,I am not sure,Yes,24,Genderflux demi-girl,United States of America
+0,1,I don't know,I am not sure,No,39,Male,United States of America
+0,0,Yes,Yes,Yes,39,Male,United Kingdom
+1,,,,,44,Man,United Kingdom
+1,,,,,30,female,Netherlands
+0,1,No,I am not sure,No,31,male,Denmark
+0,1,Not eligible for coverage / N/A,N/A,Yes,37,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,42,Male,United Kingdom
+1,,,,,35,Male,Canada
+0,0,I don't know,I am not sure,No,30,M,United States of America
+0,1,Yes,No,No,30,male,Canada
+0,1,Yes,No,No,33,Male,United States of America
+0,0,Not eligible for coverage / N/A,I am not sure,I don't know,31,Male,United States of America
+0,0,Yes,Yes,No,39,Female,United States of America
+0,0,No,No,No,27,m,Germany
+1,,,,,34,male,United Kingdom
+0,1,No,N/A,No,31,Male,United States of America
+0,1,Yes,Yes,No,30,Female,United States of America
+0,1,Yes,No,Yes,34,male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,20,female-bodied; no feelings about gender,Canada
+1,,,,,39,Male,United States of America
+0,1,I don't know,No,No,50,female,United States of America
+0,0,No,No,No,22,Male,United States of America
+0,1,Yes,Yes,No,41,Male,Spain
+0,1,No,No,No,37,male,Germany
+0,1,Yes,Yes,Yes,32,m,United States of America
+1,,,,,26,M,Austria
+0,1,Yes,No,Yes,38,M,Netherlands
+1,,,,,21,Male,United Kingdom
+0,1,Yes,I am not sure,No,27,Male,United States of America
+0,0,No,I am not sure,No,37,f,United States of America
+1,,,,,45,male,United Kingdom
+1,,,,,26,Male,United States of America
+0,0,I don't know,No,No,30,Female,United States of America
+0,1,No,No,No,21,Male,United States of America
+0,0,I don't know,I am not sure,No,21,male,United States of America
+1,,,,,29,male,Germany
+0,0,Yes,I am not sure,Yes,46,male,United States of America
+0,1,Yes,Yes,Yes,28,cis man,United States of America
+0,0,Yes,No,No,26,,United States of America
+1,,,,,37,Female,United States of America
+0,1,Yes,I am not sure,I don't know,44,Male,United States of America
+1,,,,,45,F,United States of America
+0,1,I don't know,I am not sure,I don't know,35,female,United States of America
+0,1,Yes,Yes,Yes,39,Male,United States of America
+0,0,I don't know,I am not sure,I don't know,37,Female,United States of America
+0,0,No,No,No,35,Male,United States of America
+0,1,Yes,Yes,No,29,Female,United States of America
+1,,,,,49,f,United States of America
+0,1,I don't know,No,I don't know,21,Male (cis),United States of America
+0,1,Yes,Yes,No,26,Female,United States of America
+0,1,Yes,I am not sure,Yes,35,male,Germany
+0,0,Yes,Yes,Yes,56,M,United States of America
+1,,,,,53,female,United States of America
+1,,,,,48,f,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,No,24,male,United Kingdom
+0,1,No,I am not sure,No,37,Male,Ireland
+0,0,No,Yes,No,27,female,United States of America
+0,1,I don't know,No,No,39,female,United States of America
+1,,,,,31,male,Finland
+0,1,Yes,Yes,No,34,Male,United States of America
+0,0,No,N/A,No,33,Male,United Kingdom
+0,1,No,No,No,22,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,25,Female,United Kingdom
+0,0,I don't know,No,No,34,Male,United Kingdom
+0,1,Not eligible for coverage / N/A,N/A,No,30,male,United Kingdom
+0,1,No,No,No,37,male,United Kingdom
+0,1,No,No,No,26,Male,Chile
+0,0,Yes,Yes,Yes,29,female,United States of America
+0,1,No,No,I don't know,29,male,Chile
+0,0,No,N/A,No,27,Male,United Kingdom
+0,0,No,No,No,27,female,Chile
+0,0,I don't know,No,Yes,23,Male,United States of America
+0,1,I don't know,Yes,No,24,female,United States of America
+1,,,,,22,male,Guatemala
+0,0,No,No,No,28,Male,United Kingdom
+0,0,I don't know,I am not sure,No,22,Male,United States of America
+0,1,No,Yes,No,32,Male,United States of America
+0,1,I don't know,No,No,35,female,United States of America
+0,1,Yes,Yes,No,26,Male,United States of America
+0,1,No,Yes,Yes,31,female,United Kingdom
+1,,,,,32,male,United States of America
+0,1,No,No,No,37,Male,Pakistan
+0,0,No,No,No,24,Male,United Kingdom
+0,1,Yes,Yes,Yes,33,Male,United States of America
+0,1,Yes,Yes,No,28,Male,United States of America
+0,1,I don't know,No,No,22,Female,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,46,Male,Germany
+0,1,Yes,Yes,No,30,Male,United States of America
+0,1,I don't know,I am not sure,No,29,Male,United States of America
+0,1,I don't know,No,No,22,Male,United States of America
+1,,,,,24,Female,United States of America
+1,,,,,29,Female,United States of America
+0,0,Yes,Yes,No,30,male,United States of America
+1,,,,,25,Male ,United States of America
+0,0,Yes,I am not sure,I don't know,39,Male,United States of America
+1,,,,,31,male,Serbia
+1,,,,,25,Male,United States of America
+0,0,Yes,I am not sure,Yes,39,Male,United States of America
+0,1,Yes,Yes,No,31,F,United States of America
+0,1,Yes,No,No,35,m,United States of America
+1,,,,,31,AFAB,United States of America
+0,1,No,I am not sure,No,23,male,United States of America
+0,1,Yes,I am not sure,Yes,30,male,United States of America
+0,1,Not eligible for coverage / N/A,No,No,28,male,France
+0,1,Yes,No,No,23,Female,Ireland
+0,1,Yes,Yes,No,26,Female ,United States of America
+0,1,Yes,Yes,No,24,Female,United States of America
+0,1,Yes,No,No,32,Male,United States of America
+1,,,,,35,Male,United States of America
+0,1,Not eligible for coverage / N/A,N/A,No,30,Male,Estonia
+0,1,Yes,I am not sure,No,32,male,United States of America
+0,0,Yes,Yes,No,35,Male,United States of America
+0,1,I don't know,Yes,No,26,F,United States of America
+0,0,Yes,I am not sure,Yes,30,Female,United States of America
+0,1,Yes,No,No,29,male,United States of America
+0,1,I don't know,I am not sure,Yes,39,male,Canada
+0,0,I don't know,I am not sure,No,37,Male,United Kingdom
+0,1,Yes,No,No,35,M,United States of America
+0,1,Not eligible for coverage / N/A,Yes,No,25,Female,United States of America
+0,0,Not eligible for coverage / N/A,N/A,Yes,22,Agender,United States of America
+0,1,Yes,Yes,No,33,Male,United Kingdom
+0,1,Yes,No,No,23,male ,United States of America
+1,,,,,29,male,Brazil
+0,1,Yes,Yes,No,28,Male,United States of America
+0,1,Yes,Yes,No,30,Male,United States of America
+0,1,Yes,Yes,No,28,Male,United States of America
+0,1,Yes,Yes,Yes,28,female,United States of America
+0,0,Yes,No,No,37,male,United States of America
+0,1,No,Yes,Yes,30,Male,United States of America
+0,1,No,I am not sure,Yes,27,Male,India
+1,,,,,29,Male,Canada
+0,1,I don't know,I am not sure,No,28,Male,Poland
+0,1,No,No,No,26,Transgender woman,Ireland
+0,1,I don't know,I am not sure,No,29,male,United States of America
+1,,,,,34,m,Germany
+0,1,Yes,Yes,Yes,36,Male,United Kingdom
+0,1,I don't know,No,No,38,Male,Belgium
+0,1,Yes,I am not sure,No,22,Female,United States of America
+0,1,Not eligible for coverage / N/A,I am not sure,Yes,24,male,United States of America
+0,0,Yes,Yes,No,24,female,United States of America
+0,1,Yes,Yes,No,36,female,United States of America
+0,0,Not eligible for coverage / N/A,I am not sure,No,24,Female,United States of America
+0,1,No,No,No,24,Male,United States of America
+0,1,No,N/A,No,31,Male,Netherlands
+0,1,Yes,I am not sure,Yes,39,M,United Kingdom
+0,1,Yes,Yes,Yes,41,male,United States of America
+1,,,,,29,Male,United Kingdom
+0,1,No,No,No,37,male,Estonia
+0,1,I don't know,I am not sure,No,30,male,United States of America
+0,1,Yes,I am not sure,Yes,24,Male,Canada
+0,1,Not eligible for coverage / N/A,N/A,No,22,female,Canada
+0,1,Yes,I am not sure,Yes,24,Male,Canada
+0,1,I don't know,I am not sure,No,26,Female,Canada
+0,1,Yes,No,No,38,female,United States of America
+1,,,,,34,Female ,United States of America
+1,,,,,56,MALE,Afghanistan
+0,1,Yes,Yes,Yes,52,Male,United States of America
+0,0,I don't know,I am not sure,No,30,Female,United States of America
+0,1,Yes,No,No,25,non-binary,Canada
