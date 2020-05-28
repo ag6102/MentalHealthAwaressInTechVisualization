@@ -2,9 +2,13 @@
 
 ## Introduction
 Mental health care is as important as physical health care. However, physical medical issues are discussed/ addressed more. This visualization is based on a survey(Kaggle) related to mental health awareness in Tech. The visualization is implemented using d3js.
+
 Dataset and data types:
+
 The dataset being used represents awareness, experience and beliefs of the employers in tech related to mental health care and awareness. The survey contains 352 records of people and 82 columns.
+
 The visualization is based on the following columns of survey:
+
 • Are you self-employed?
 • How many employees does your company or organization have?
 • Is your employer primarily a tech company/organization?
